@@ -4,9 +4,9 @@ One of the very first essential question, which comes to every __data scientist_
 
 - Excluding Data
 - Default Values
-- Inputing Data
+- Imputing Data
 
-In order to make it more interesting this article faces the __airbnb database__ which contains ... There are some values in the database which are not provided, which is perfect for this demonstation purpose. All packages, which are requiered for this project can be found in the __requirements.txt__ file.
+In order to make it more interesting this article faces the __airbnb database__ which contains a lot of reviews. There are some values in the database which are not provided, which is perfect for demonstation purpose. All packages, which are requiered for this project can be found in the __requirements.txt__ file.
 
 | A | B | C | D | E |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ dataframe = datagrame[] ...
 > __Remark__  
 This naive stategy of filling missing data has also some known drawbacks. With this approach some of the correlations in the data might get lost, which leads to __lower accuracy__ in future predictions.
 
-## Inputing Data
+## Imputing Data
 In this section default values are taken no longer to be filled in for missing data, but more realistic values are taken into account. Therefore statistical values like the mean can be used as a filling strategy, which is much more realistic than plain default values.
 
 ``` python
