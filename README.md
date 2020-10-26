@@ -29,6 +29,6 @@ This strategy has like all the others some drawbacks as well. Since we're still 
 
 Since we're now able to handle databases with missing values for training neural networks, we're finally able to search to some correlations between different aspects of the data. 
 
-Therefore, feel free to visit my [article](...) on medium about the airbnb database. It shows how deeper insights can be taken with my previously presented filling strategies from the __jupyter notebook__ of this repository.
+Therefore, feel free to visit my [article](https://philipp-killermann.medium.com/data-science-mind-the-gap-258c95ba9af7) on medium about the airbnb database. It shows how deeper insights can be taken with my previously presented filling strategies from the __jupyter notebook__ of this repository.
 
 ![Figure](where_to_stay.png)
