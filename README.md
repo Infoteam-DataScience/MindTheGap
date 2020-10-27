@@ -31,4 +31,4 @@ Since we're now able to handle databases with missing values for training neural
 
 Therefore, feel free to visit my [article](https://philipp-killermann.medium.com/data-science-mind-the-gap-258c95ba9af7) on medium about the airbnb database. It shows how deeper insights can be taken with my previously presented filling strategies from the __jupyter notebook__ of this repository.
 
-![Figure](where_to_stay.png)
+![Figure](images/where_to_stay.png)
