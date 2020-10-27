@@ -58,13 +58,17 @@ In the jupyter notebook the following questions are answered in more details.
 - Question: `What to pay for in Seattle?`
     - Answer: __300-400$__
 
-For the second question there is score function introducted, which looks like below. If you are interested in how the other answers were found, please have a look in the jupyter notebook. 
+For the second question there is score function introducted, which looks like below. If you are interested in how the other answers were found, please have a look in the __jupyter notebook__. 
 
 ``` python
     score = rating / price - distance
 ```
-
 > __Remark__  
 In this context the distance in the forumula above discribes the distance to the __center of the city__.
 
+You can see in the figure below the score across Seattle of all listings in the analyzed data set of Seattle. Hopefully this encourages you for reading  more in the provided notebook.
+
 ![Figure](images/where_to_stay.png)
+
+# Acknowledgements
+Thanks to the __inside Airbnb__ Webpage for providing this data set, which enables data scientist a very easy access to real world data.
