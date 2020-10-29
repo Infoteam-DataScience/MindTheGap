@@ -1,4 +1,4 @@
-# Data Science - Mind the Gap!
+# What affects the Airbnb prices in Boston?
 
 ## Introduction
 
