@@ -1,4 +1,4 @@
-# What affects the Airbnb prices in Boston?
+# What affects the Airbnb prices in Seattle?
 
 ## Introduction
 
